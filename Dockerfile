@@ -4,7 +4,7 @@ LABEL author="Andy"
 LABEL description="Dockerfile for Plan Scraping"
 
 COPY main.py /code/
-COPY tests/  /code/
+
 COPY requirements.txt /code/
 
 WORKDIR /code/
