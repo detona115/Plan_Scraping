@@ -1,3 +1,4 @@
+[![GitHub license](https://img.shields.io/badge/implemented%20by-Andy-blue)](https://www.linkedin.com/in/andy-kiaka-76a983110/)
 # Plan_Scraping
 
 App que faz o scraping de um determinado site, e retorna os dados de uma drop down list no formato json
